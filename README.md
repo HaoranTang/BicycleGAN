@@ -1,6 +1,5 @@
 # 680 Final Project: BicycleGAN
-##### Haoran Tang, thr99
-
+##### Haoran Tang
 ### Instructions
 
 #### 1. Training
